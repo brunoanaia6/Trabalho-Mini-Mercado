@@ -1,1 +1,1 @@
-Projeto Mini Mercado em Java Console.
+Projeto Mini Mercado em Java.
